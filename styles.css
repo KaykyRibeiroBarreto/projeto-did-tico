@@ -1,0 +1,14 @@
+body{
+background-color: cornflowerblue;
+font-family: 'Courier New';
+text-align: center;
+
+}
+
+.box_nav{
+background-color: gold;
+padding: 5px;
+border-radius: 15px;
+
+
+}
